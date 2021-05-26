@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gentle-CS5", "Gentle-CS5\Gentle-CS5.csproj", "{BA2D5F12-4CEF-487E-A05C-D0AFCC49A56F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2D5F12-4CEF-487E-A05C-D0AFCC49A56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2D5F12-4CEF-487E-A05C-D0AFCC49A56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2D5F12-4CEF-487E-A05C-D0AFCC49A56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2D5F12-4CEF-487E-A05C-D0AFCC49A56F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

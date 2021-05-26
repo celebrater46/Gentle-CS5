@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gentle-CS5/1.0.0": {
+        "runtime": {
+          "Gentle-CS5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gentle-CS5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
